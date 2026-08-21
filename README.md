@@ -148,7 +148,7 @@ Four repos live so far — more industries are launching soon under [@open-ai-di
 
 | | | |
 |---|---|---|
-| [🏥 Healthcare](https://github.com/open-ai-directory/best-ai-tools-for-healthcare) | [⚖️ Legal](https://github.com/open-ai-directory/best-ai-tools-for-legal) | **📈 Marketing (this repo)** |
+| [🏥 Healthcare](https://github.com/open-ai-directory/best-ai-tools-for-healthcare) | [⚖️ Lawyers](https://github.com/open-ai-directory/best-ai-tools-for-lawyers) | **📈 Marketing (this repo)** |
 | [💰 Finance](https://github.com/open-ai-directory/best-ai-tools-for-finance) | 🏠 Real Estate *(coming soon)* | 🛒 E-commerce *(coming soon)* |
 | 🎓 Teachers *(coming soon)* | 👥 HR *(coming soon)* | 🏭 Manufacturing *(coming soon)* |
 
